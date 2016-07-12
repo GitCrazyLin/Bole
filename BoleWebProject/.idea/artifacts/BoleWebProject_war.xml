@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BoleWebProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.bole.laotang.war">
+      <element id="artifact" artifact-name="BoleWebProject:war exploded" />
+    </root>
+  </artifact>
+</component>
